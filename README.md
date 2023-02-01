@@ -20,6 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/jstavanja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jstavanja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jaka-stavanja-238290106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaka-stavanja-238290106" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZQx3IEmqzGM8PeWoO4cfbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yourboyjake8924" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jstavanja&label=Profile%20views&color=0e75b6&style=flat" alt="jstavanja" /> </p>
