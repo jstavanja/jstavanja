@@ -3,13 +3,13 @@
 
 <p>
 
-- 🔭 I’m currently working in **the iGaming industry!**
+- 🔭 I’m currently working in **the data security industry!**
 
 - 👨‍💻 All of my information is available on [my portfolio](https://stavanja.xyz)
 
 - 📝 I sometimes write articles on [the blog](https://stavanja.xyz/blog)
 
-- 💬 Ask me about **vue, react, nodejs, adonisjs ...**
+- 💬 Ask me about **react, vue, nodejs, adonisjs ...**
 
 - 📫 How to reach me: **@jstavanja on twitter**
 
