@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working in **the data security industry!**
 
-- 👨‍💻 All of my information is available on [my portfolio](https://stavanja.xyz)
+- 👨‍💻 All of my information is available on [my portfolio](https://jaka.dev)
 
-- 📝 I sometimes write articles on [the blog](https://stavanja.xyz/blog)
+- 📝 I sometimes write articles on [the blog](https://jaka.dev/blog)
 
 - 💬 Ask me about **react, vue, nodejs, adonisjs ...**
 
